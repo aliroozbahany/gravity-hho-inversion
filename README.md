@@ -5,6 +5,7 @@
 </p>
 
 ---
+   [![ORCID](https://img.shields.io/badge/ORCID-0009--0002--8715--8013-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0002-8715-8013)
 
 ### 🌍 About Me
 I am a PhD researcher in **Geophysics / Gravimetry** with a deep passion for potential theory, geodynamics, and high-performance numerical modeling. My academic journey revolves around decoding Earth's internal structure through gravity anomalies, geoid modeling, and advanced mathematical inversion methods.
