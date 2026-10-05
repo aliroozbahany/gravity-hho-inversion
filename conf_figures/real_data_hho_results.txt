@@ -1,0 +1,11 @@
+HHO INVERSION RESULTS — DIZAJ REAL GRAVITY PROFILE 2
+============================================================
+x0 (m)           : 13.2299
+z0 (m)           : 4.6673
+R (m)            : 3.7398
+drho (kg/m3)     : -2400.00
+z_top (m)        : 0.9275
+RMSE (mGal)      : 0.0053
+R^2              : 0.9886
+Runtime (s)      : 2.65
+Regional Trend   : c0 = 0.052640, c1 = 3.511853e-04
